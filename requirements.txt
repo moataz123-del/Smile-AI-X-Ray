@@ -1,6 +1,8 @@
-ultralytics
-streamlit
-pillow
-opencv-python
-numpy
 roboflow
+waitress
+flask
+streamlit
+numpy
+opencv-python-headless
+ultralytics
+pillow
